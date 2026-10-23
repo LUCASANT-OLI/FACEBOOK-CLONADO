@@ -17,5 +17,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+<img width="298" height="190" alt="Captura de tela 2026-10-22 220430" src="https://github.com/user-attachments/assets/fdd8f10f-2508-43a4-be9b-14ee4970da77" />
