@@ -17,4 +17,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-<img width="298" height="190" alt="Captura de tela 2026-10-22 220430" src="https://github.com/user-attachments/assets/fdd8f10f-2508-43a4-be9b-14ee4970da77" />
+
+<img width="255" height="128" alt="Captura de tela 2026-10-24 143448" src="https://github.com/user-attachments/assets/62e64e71-ca3b-4179-9dc4-6cc553c4d0fd" />
+
